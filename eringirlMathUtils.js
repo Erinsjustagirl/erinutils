@@ -139,6 +139,8 @@
                     "opcode": "block_ad16693ada7b638f",
                     "text": "factors of [866c2cd47cd9f335]",
                     "blockType": "reporter",
+                    "blockShape": Scratch.BlockShape?.SQUARE,
+                    "allowDropAnywhere": true,
                     "arguments": {
                         "866c2cd47cd9f335": {
                             "type": "number",
@@ -149,6 +151,8 @@
                     "opcode": "block_7662b291bbc3ff7c",
                     "text": "multiples of  [caa4e91c9102e81e] length [a4dc502a8596589b]",
                     "blockType": "reporter",
+                    "blockShape": Scratch.BlockShape?.SQUARE,
+                    "allowDropAnywhere": true,
                     "arguments": {
                         "caa4e91c9102e81e": {
                             "type": "number",
